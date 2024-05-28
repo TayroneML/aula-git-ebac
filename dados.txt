@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Tayrone
+-Profissão: QA
+-Cidade:Caldas Novas - GO
+-O que faz nas horas vaga: Toco violão e canto
+-Feedback sobre o curso Qualidade de Software: Gostando muito de aprender e evoluir sobre QA 
+-Feedback sobre a plataforma de estudo da EBAC: Muito bem elaborada e de ótima qualidade
+
+Obrigado!!!
+
+
